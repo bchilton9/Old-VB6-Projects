@@ -1,0 +1,1 @@
+"The|Lands|of|Tidel",3,1,"Fighter",21,68,0,0,0,0,0,0,0

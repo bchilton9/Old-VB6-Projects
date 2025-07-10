@@ -1,0 +1,4 @@
+1,150,180,"Teleport",0,12,120,120,39
+12,180,270,"Kiki",1,"Hello, "," my name is Kiki, its nice to meet you. The people of this island need your help! An evil monster has come to the town and has stolen 7 of our prescious coins. Originally, 8 were given to us by a visitor to the island thousands of years ago. He said that they possess uniques powers, and that they would protect the island from evil. Luckily, i was able to snatch one of them and hide here in the forest with it. I hope i can trust you with it. Here is the first one."," Good luck in your journey! Perhaps, with the power of all 8 coins, you can defeat the evil monster!!!",39
+8,240,150,"Merlon",2,"Good day young sir, I am the magical, mystical Merlon of the North. I have a strange  suspicsion that to the East, there is a grumpy old lady...","","",39
+2,180,150,"Coin",3,54,53,"",39

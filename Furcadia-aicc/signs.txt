@@ -1,0 +1,81 @@
+If Sign =  Then
+done = True
+ & 3
+ & 3
+frmBot.sckFurc.SendData "wh " & Furre & " Welcome to the AICC Academy! We strive to do our best to help aspiring botmakers learn how to create bots using a variety of clients. Whisper me commands for a list of options." & vblf
+If Sign =  Then
+done = True
+ d!o
+ e!n
+frmBot.sckFurc.SendData "wh " & Furre & " This is the area known as the 'Bot Zone'. Furres MUST bring their bots here for testing while in dream." & vblf
+
+
+elseIf Sign = 4 Then
+done = True
+frmBot.sckFurc.SendData "wh " & Furre & " Create & Connect a FurBot [http://www.angelfire.com/clone/aicc/Tutorials/FurBot/NewBot.htm]" & vblf
+elseIf Sign = 5 Then
+done = True
+frmBot.sckFurc.SendData "wh " & Furre & " Auto-whispers with FurBot [http://www.angelfire.com/clone/aicc/Tutorials/FurBot/Whispers.htm]" & vblf
+elseIf Sign = 6 Then
+done = True
+frmBot.sckFurc.SendData "wh " & Furre & " DS Responses with FurBot [http://www.angelfire.com/clone/aicc/Tutorials/FurBot/DSresponse.htm]" & vblf
+elseIf Sign = 7 Then
+done = True
+frmBot.sckFurc.SendData "wh " & Furre & " Signs With FurBot [http://www.angelfire.com/clone/aicc/Tutorials/FurBot/Signs.htm]" & vblf
+elseIf Sign = 8 Then
+done = True
+frmBot.sckFurc.SendData "wh " & Furre & " Logs with FurBot [http://www.angelfire.com/clone/aicc/Tutorials/FurBot/Logs.htm]" & vblf
+elseIf Sign = 9 Then
+done = True
+frmBot.sckFurc.SendData "wh " & Furre & " Databases with FurBot [http://www.angelfire.com/clone/aicc/Tutorials/FurBot/Databases.htm]" & vblf
+elseIf Sign = 10 Then
+done = True
+frmBot.sckFurc.SendData "wh " & Furre & " Store a Roll Value [http://www.angelfire.com/clone/aicc/Tutorials/FurBot/RollValue.htm]" & vblf
+elseIf Sign = 11 Then
+done = True
+frmBot.sckFurc.SendData "wh " & Furre & " We do not currently have any zMUD tutorials available." & vblf
+elseIf Sign = 26 Then
+done = True
+frmBot.sckFurc.SendData "wh " & Furre & " We do not currently have any zMUD tutorials available." & vblf
+elseIf Sign = 13 Then
+done = True
+frmBot.sckFurc.SendData "wh " & Furre & " You can the URLs to several MUSHclient tutorials on these shelves." & vblf
+elseIf Sign = 28 Then
+done = True
+frmBot.sckFurc.SendData "wh " & Furre & " Create & Connect a MUSHclient bot [http://www.angelfire.com/clone/aicc/Tutorials/MUSHclient/NewBot.htm]" & vblf
+elseIf Sign = 29 Then
+done = True
+frmBot.sckFurc.SendData "wh " & Furre & " Basic Commands with MUSHclient [http://www.angelfire.com/clone/aicc/Tutorials/MUSHclient/BasicCommands.htm]" & vblf
+elseIf Sign = 30 Then
+done = True
+frmBot.sckFurc.SendData "wh " & Furre & " Wildcards with MUSHclient [http://www.angelfire.com/clone/aicc/Tutorials/Wildcards/Wildcards.htm]" & vblf
+elseIf Sign = 31 Then
+done = True
+frmBot.sckFurc.SendData "wh " & Furre & " VBScripting for Beginners with MUSHclient [http://www.angelfire.com/clone/aicc/Tutorials/MUSHclient/VBS4Beginners.htm]" & vblf
+elseIf Sign = 40 Then
+done = True
+frmBot.sckFurc.SendData "wh " & Furre & " We do not currently have any Visual Basic tutorials available." & vblf
+elseIf Sign = 55 Then
+done = True
+frmBot.sckFurc.SendData "wh " & Furre & " This is the Academy Post Office. You can leave messages for a member for them to read later. Step on the pad to read or send a message." & vblf
+elseIf Sign = 56 Then
+done = True
+frmBot.sckFurc.SendData "wh " & Furre & " Whisper me 'get msgs', without the quotes, to get a list of your messages. Whisper me 'read Furre' to read messages from a certain furre. Whisper 'send Furre Msg' to me to send a message to a certain furre." & vblf
+elseIf Sign = 57 Then
+done = True
+frmBot.sckFurc.SendData "wh " & Furre & " #SE Thanks for using the Academy Post Office. #SE" & vblf
+elseIf Sign = 59 Then
+done = True
+frmBot.sckFurc.SendData "wh " & Furre & " This is the Academy Meeting Area. We plan to have many meetings, Q&A sessions, and other such gatherings here." & vblf
+elseIf Sign = 60 Then
+done = True
+frmBot.sckFurc.SendData "wh " & Furre & " This is the Academy Bank. Members can transfer funds or check the balance of their accounts here." & vblf
+elseIf Sign = 53 Then
+done = True
+frmBot.sckFurc.SendData "wh " & Furre & " Welcome to the Academy Bank! To transfer points to another member, whisper 'transfer Amount to Furre' to me. To check your account balance, whisper 'balance' to me." & vblf
+elseIf Sign = 54 Then
+done = True
+frmBot.sckFurc.SendData "wh " & Furre & " #SE Thank you for using the AICC Academy bank! #SE" & vblf
+elseIf Sign = 61 Then
+done = True
+frmBot.sckFurc.SendData "wh " & Furre & " This stairwell leads to the main socializing area and sparring arena." & vblf

@@ -1,0 +1,10 @@
+frmBot = 44, 44, 429, 390, C, 44, 44, 429, 390, C
+incomeing = 132, 132, 610, 578, C
+timer = 176, 176, 654, 622, C
+settings = 0, 0, 478, 446, C
+frmmove = 0, 0, 478, 446, C, 220, 220, 698, 666, C
+clsOnTop = 22, 22, 500, 468, C
+modSigns = 66, 66, 544, 512, C
+modPostOffice = 66, 66, 544, 512, C
+modGuild = 22, 22, 500, 468, C
+whispers = 132, 132, 610, 578, C
