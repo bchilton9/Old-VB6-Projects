@@ -6,15 +6,27 @@ If you’re curious or can learn something from it — feel free to dig in. Just
 
 Use at your own discretion.
 
----
-See more projects at [ChilSoft](https://chilsoft.com/)
+___
 
----
+## 🧾 License
+
+This is provided as-is under the MIT License.
+
+___
+
+## 🛠 Made By
+
+[ChilSoft.com](https://chilsoft.com) with caffeine and questionable commits.
+
+___
+
+## ⚠️ Disclaimer
+
 This site and its contents are provided for informational and educational purposes only.
 
-Use any code, tools, or instructions at your own risk.
-We are not responsible for any damage to your device, data loss, or unintended consequences.
+Use any code, tools, or instructions at your own risk.  
+We are **not responsible** for any damage to your device, data loss, or unintended consequences.
 
 Always proceed with care — and make backups.
 
-© 2025 ChilSoft. All rights reserved.
+© **2025 ChilSoft**. All rights reserved.
